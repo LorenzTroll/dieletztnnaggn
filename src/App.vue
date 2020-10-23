@@ -6,6 +6,8 @@
   <router-view />
 </template>
 
+<script src=”dist/build.js”></script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
